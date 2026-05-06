@@ -1,3 +1,16 @@
-Head {
-	font-size: 20 ;
+h1 {
+	font-size: 50px ;
+	text-align: center;
+}
+p{
+	text-align: center;
+}
+img, video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
 }
