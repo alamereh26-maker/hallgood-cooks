@@ -1,9 +1,12 @@
 h1 {
 	font-size: 50px ;
 	text-align: center;
+	color: #05204A;
 }
 p{
 	text-align: center;
+	color: #05204A;
+	font-size: 20px;
 }
 img, video {
 	display: block;
@@ -13,4 +16,15 @@ img, video {
 
 a {
 	text-decoration: none;
+}
+body {
+	background-color: #F2CEE6;
+}
+hr {
+	color: #65B4F5;
+}
+
+video-container iframe {
+	border: 4px solid #f5f5dc;
+	border-radius: 12px;
 }
